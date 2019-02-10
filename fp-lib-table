@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name OSTTA020161)(type Legacy)(uri ${KIPRJMOD}/OSTTA020161.mod)(options "")(descr ""))
+  (lib (name audio-amp)(type KiCad)(uri ${KIPRJMOD}/audio-amp.pretty)(options "")(descr ""))
+)

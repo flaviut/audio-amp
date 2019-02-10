@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name audio-amp)(type Legacy)(uri ${KIPRJMOD}/audio-amp.lib)(options "")(descr ""))
+  (lib (name OSTTA020161)(type Legacy)(uri ${KIPRJMOD}/OSTTA020161.lib)(options "")(descr ""))
+)
